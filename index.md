@@ -8,3 +8,7 @@ num = int(input("Enter a number: "))
 
 print(num)
 ```
+- [ ] Acquire nuggies
+- [ ] Acquire BBQ sauce
+- [ ] Dip nuggies in sauce
+- [ ] Eat nuggies
